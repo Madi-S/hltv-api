@@ -1,5 +1,5 @@
 # HLTV API
-Unofficial HLTV API client
+Unofficial maintainable HLTV API client
 
 Dependencies:
 - `requests`
